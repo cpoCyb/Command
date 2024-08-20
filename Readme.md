@@ -9,7 +9,7 @@ Windows command to check the opening of a port from PowerShell :
   Test-NetConnection -Port 80 X.X.X.X
 ```
 
-## Linux : 
+## NMAP : 
 
 Scan the network via NMAP :
 
